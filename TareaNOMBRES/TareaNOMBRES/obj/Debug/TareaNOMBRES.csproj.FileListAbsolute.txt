@@ -1,0 +1,7 @@
+C:\Users\OCHO\source\repos\TareaNOMBRES\TareaNOMBRES\bin\Debug\TareaNOMBRES.exe.config
+C:\Users\OCHO\source\repos\TareaNOMBRES\TareaNOMBRES\bin\Debug\TareaNOMBRES.exe
+C:\Users\OCHO\source\repos\TareaNOMBRES\TareaNOMBRES\bin\Debug\TareaNOMBRES.pdb
+C:\Users\OCHO\source\repos\TareaNOMBRES\TareaNOMBRES\obj\Debug\TareaNOMBRES.csprojAssemblyReference.cache
+C:\Users\OCHO\source\repos\TareaNOMBRES\TareaNOMBRES\obj\Debug\TareaNOMBRES.csproj.CoreCompileInputs.cache
+C:\Users\OCHO\source\repos\TareaNOMBRES\TareaNOMBRES\obj\Debug\TareaNOMBRES.exe
+C:\Users\OCHO\source\repos\TareaNOMBRES\TareaNOMBRES\obj\Debug\TareaNOMBRES.pdb
